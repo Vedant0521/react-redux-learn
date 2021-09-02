@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactreduxlearn-dev-151436-authRole",
+      "UnauthRoleArn": "arn:aws:iam::153626892193:role/amplify-reactreduxlearn-dev-151436-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::153626892193:role/amplify-reactreduxlearn-dev-151436-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactreduxlearn-dev-151436-deployment",
+      "UnauthRoleName": "amplify-reactreduxlearn-dev-151436-unauthRole",
+      "StackName": "amplify-reactreduxlearn-dev-151436",
+      "StackId": "arn:aws:cloudformation:us-east-1:153626892193:stack/amplify-reactreduxlearn-dev-151436/65f622b0-0bd2-11ec-aa5a-1289a21cde95",
+      "AmplifyAppId": "d2nvkgynkz7jfs"
+    },
+    "categories": {
+      "auth": {
+        "reactreduxlearndae9cb1c": {}
+      }
+    }
+  }
+}
